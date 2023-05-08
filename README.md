@@ -2,7 +2,6 @@
 <img src="https://github.com/BestModules-Libraries/img/blob/main/BMN31K502_V1.0.png" width="320" height="240"> 
 </div> 
 
-
 BM52D5021-1 
 ===========================================================
 
