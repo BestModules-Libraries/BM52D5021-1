@@ -1,14 +1,24 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMD58T280_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMN31K502_V1.0.png" width="320" height="240"> 
 </div> 
 
 
-BMD58T280 
+BM52D5021-1 
 ===========================================================
 
-The Best Modules BMD58T280 is a shield board for 2.8” TFT-LCD display function, which uses the SPI and EBI communication methods. This document provides the description of the BMD58T280 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of TFT display.
+The BM52D5021-1 is a microporous atomiser module from Best Modules, which uses the UART communication method. This document provides the description of the BM52D5021-1 Arduino Lib functions and how to install the Arduino Lib. The example demonstrate the function of configuring atomisation level and atomisation time, etc.
 
-This library can be installed via the Arduino Library manager. Search for **BMD58T280**. 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                   |
+|:---------:|:----------------------------:|
+|BM52D5021-1|microporous atomiser module|
+|BMN31K502  |microporous atomiser module,contains an adapter cable,1.5W microporous atomisation plate and the BM52D5021-1 module|
+
+</div> 
+
+This library can be installed via the Arduino Library manager. Search for **BM52D5021-1**. 
 
 Repository Contents
 -------------------
@@ -21,7 +31,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMD58T280 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmd58t280.html#tab-product2 )** - Arduino Library Description.
+* **[BM52D5021-1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm52d5021-1.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
