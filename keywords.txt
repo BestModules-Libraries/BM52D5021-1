@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For BM52D5021-1
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BM52D5021_1	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+sendCOMMAND	KEYWORD2
+sendID	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+HARDSERIAL	LITERAL1
+SOFTSERIAL	LITERAL1
+readID_flag     LITERAL1
+ID_bit1	LITERAL1
+ID_bit2	LITERAL1
+ID_bit3	LITERAL1
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
