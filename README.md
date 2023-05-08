@@ -13,7 +13,7 @@ The BM52D5021-1 is a microporous atomiser module from Best Modules, which uses t
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
 |BM52D5021-1|microporous atomiser module|
-|BMN31K502  |microporous atomiser module,contains an adapter cable,1.5W microporous atomisation plate and the BM52D5021-1 module|
+|BMN31K502  |microporous atomiser module,contains an adapter cable,1.5W Atomising tablet and the BM52D5021-1 module|
 
 </div> 
 
